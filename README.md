@@ -308,21 +308,22 @@ However,
 naturally affect difficulty.
 
 ***
-Observe Region
-↓
-Investigate Collapse
-↓
-Battle / Purify / Negotiate
-↓
-Hex State Changes
-↓
-Civilization Evolves
-↓
-Void Expands or Shrinks
-↓
-New Regional Consequences
+Observe Region  
+↓  
+Investigate Collapse  
+↓  
+Battle / Purify / Negotiate  
+↓  
+Hex State Changes  
+↓  
+Civilization Evolves  
+↓  
+Void Expands or Shrinks  
+↓  
+New Regional Consequences  
 
 ***
+
 ## ⚔️ Action RPG Combat System
 
 ### 3-Character Real-Time Combat
