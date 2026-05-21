@@ -684,7 +684,9 @@ Eternal Cycle / Harmonizer of Wa / Civilization-Tuning RPG / Planetary Simulatio
 #PlanetarySimulation  
 
 
-■関連リンク
+---
+
+## 🔗 Related Links
 
 Eternal Cycle — 和の調律者 — v1.02  
 https://note.com/inchacomusho/n/n8cbbbdb80854
