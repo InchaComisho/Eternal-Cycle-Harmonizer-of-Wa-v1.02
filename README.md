@@ -507,6 +507,7 @@ The world is built around six foundational principles:
 - **Order** – balance between freedom and stability  
 - **Wa** – the integration and resonance of all principles into sustainable coexistence  
 
+***
 
 ## 🧬 Character Design Framework
 
