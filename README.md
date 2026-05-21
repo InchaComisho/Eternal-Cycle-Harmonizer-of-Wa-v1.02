@@ -308,6 +308,8 @@ However,
 naturally affect difficulty.
 
 ***
+## 🎮 Gameplay Flow
+
 Ancient Civilization Hub  
 ↓  
 Select Region on Planetary Hex Map  
