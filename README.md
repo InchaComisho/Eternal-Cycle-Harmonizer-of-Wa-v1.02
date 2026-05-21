@@ -335,7 +335,30 @@ Instead, the player influences the world through intervention, investigation, pu
 The results spread dynamically across adjacent hexes, causing civilizations, ecosystems, trade routes, pollution, and Void corruption to evolve over time.
 
 ***
+## 🌍 Example Scenario
+Industrial civilization rapidly expands  
+↓  
+Ocean pollution spreads  
+↓  
+Fishery nations decline  
+↓  
+Refugees increase  
+↓  
+Trade routes destabilize  
+↓  
+Void corruption emerges  
+↓  
+Deep-sea boss manifests  
+↓  
+Player intervenes through OTU restoration  
+↓  
+Regional circulation temporarily recovers  
+↓  
+Military nations attempt resource monopolization  
+↓  
+Civilization tension escalates again  
 
+***
 ## ⚔️ Action RPG Combat System
 
 ### 3-Character Real-Time Combat
