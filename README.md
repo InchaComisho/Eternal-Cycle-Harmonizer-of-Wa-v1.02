@@ -308,19 +308,29 @@ However,
 naturally affect difficulty.
 
 ***
-Observe Region  
+Ancient Civilization Hub  
 ↓  
-Investigate Collapse  
+Select Region on Planetary Hex Map  
 ↓  
-Battle / Purify / Negotiate  
+Teleport Through Portal Network  
 ↓  
-Hex State Changes  
+Battle / Investigate / Purify / Negotiate  
 ↓  
-Civilization Evolves  
+Regional Hex State Changes  
+↓  
+Adjacent Regions Are Affected  
+↓  
+Civilizations Evolve Dynamically  
 ↓  
 Void Expands or Shrinks  
 ↓  
-New Regional Consequences  
+New Conflicts and Opportunities Emerge  
+
+The player does not directly control entire civilizations.
+
+Instead, the player influences the world through intervention, investigation, purification, diplomacy, and combat.
+
+The results spread dynamically across adjacent hexes, causing civilizations, ecosystems, trade routes, pollution, and Void corruption to evolve over time.
 
 ***
 
