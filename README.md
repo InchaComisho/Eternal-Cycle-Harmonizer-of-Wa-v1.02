@@ -1,5 +1,5 @@
 # Eternal Cycle — Harmonizer of Wa — v1.02  
-## A Civilization-Tuning Action RPG About Sustaining a Living World
+## A Civilization-Tuning Action RPG About Preventing Planetary Collapse
 
 A next-generation action RPG concept that combines:
 
@@ -308,7 +308,21 @@ However,
 naturally affect difficulty.
 
 ***
+Observe Region
+↓
+Investigate Collapse
+↓
+Battle / Purify / Negotiate
+↓
+Hex State Changes
+↓
+Civilization Evolves
+↓
+Void Expands or Shrinks
+↓
+New Regional Consequences
 
+***
 ## ⚔️ Action RPG Combat System
 
 ### 3-Character Real-Time Combat
