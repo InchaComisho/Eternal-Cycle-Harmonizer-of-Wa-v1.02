@@ -1,5 +1,5 @@
 # Eternal Cycle — Harmonizer of Wa — v1.02  
-## A Civilization-Tuning Action RPG About Sustaining a Living World*
+## A Civilization-Tuning Action RPG About Sustaining a Living World
 
 A next-generation action RPG concept that combines:
 
