@@ -693,7 +693,7 @@ The goal is:
 **Author:** Master (inchacomisho / inchacomusho)  
 
 **AI Collaborators:**  
-Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola AI)
+Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola AI)
 
 **License:**  
 Creative Commons Attribution 4.0 International (CC BY 4.0)
