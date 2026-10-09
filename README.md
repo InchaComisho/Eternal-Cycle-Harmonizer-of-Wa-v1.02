@@ -1,5 +1,7 @@
 # Eternal Cycle — Harmonizer of Wa — v1.02  
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
 ## A Civilization-Tuning Action RPG About Preventing Planetary Collapse
